@@ -1,5 +1,5 @@
 # NOMBRE DEL PROGRAMA
-print("CALCTRX")
+print("CALQTRX")
 
 # NÚMERO A EVALUAR
 numero = input("Ingresa el número a convertir: ")
